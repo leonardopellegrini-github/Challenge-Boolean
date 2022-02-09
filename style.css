@@ -1,0 +1,72 @@
+body{
+  background: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 80%;
+  margin: auto;
+  font-family: poppins;
+  color: white;
+}
+
+body .hover{
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 25px;
+  width: 75%;
+  margin: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+header{
+  padding-top: 30px;
+  text-align: center;
+  margin: auto;
+}
+
+.centrale{
+  margin: auto;
+  width: 20%;
+  height: 20%;
+}
+
+h1{
+  color: #00DD00;
+}
+
+menu{
+  text-align: center;
+  background-color: #00DD00;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: full;
+}
+
+.titolo{
+  font-size: 22px;
+}
+
+.carica1{
+  background-color: #F5B453;
+  width: 40%;
+  padding: 20px;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+.carica2{
+  background-color: #00dd00;
+  width: 60%;
+  padding: 20px;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+.carica3{
+  background-color: red;
+  width: 30%;
+  padding: 20px;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
